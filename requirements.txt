@@ -1,0 +1,7 @@
+prompt_toolkit==1.0.14
+regex==2020.11.13
+PyInquirer==1.0.3
+selenium==3.141.0
+requests
+beautifulsoup4==4.9.3
+lxml==4.6.3
